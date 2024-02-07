@@ -1,8 +1,8 @@
 # FLUTTER-JSON-RW
 
 This Flutter project implements a product catalog app that allows users to view a list of products, 
-filter products by category, and input quantities. The app is designed to be visually appealing,
-with professional design elements incorporated.
+filter products by category, and input quantities. The app is designed
+with professional design elements.
 
 # Description:
 
@@ -16,13 +16,11 @@ with professional design elements incorporated.
 
 4.Allows users to enter the quantity of desired products.
 
-This project is a starting point for a Flutter application.
-
 # Advanced Features:
-1.Each product in the list includes a hardcoded image 
+1.Each product in the list includes a hardcoded image .
 
 2.Dynamically reads JSON data from an external file rather than hardcoding it. 
-This allows for easier maintenance and updates to the product catalog.
+  This allows for easier maintenance and updates to the product catalog.
 
 # Implementation Details:
 1.The project is structured using the Flutter framework, ensuring cross-platform compatibility.
