@@ -4,8 +4,9 @@ This Flutter project implements a product catalog app that allows users to view 
 filter products by category, and input quantities. The app is designed to be visually appealing,
 with professional design elements incorporated.
 
-# Description
-# Features Implemented
+# Description:
+
+# Features Implemented:
 
 1.Displays a list of products available in a JSON.
 
