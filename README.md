@@ -1,16 +1,36 @@
-# yelebo
+# FLUTTER-JSON-RW
 
-A new Flutter project.
+This Flutter project implements a product catalog app that allows users to view a list of products, 
+filter products by category, and input quantities. The app is designed to be visually appealing,
+with professional design elements incorporated.
 
-## Getting Started
+# Description
+# Features Implemented
+
+1.Displays a list of products available in a JSON.
+
+2.Default display of all products.
+
+3.Provision to select a category to filter the product list.
+
+4.Allows users to enter the quantity of desired products.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# Advanced Features:
+1.Each product in the list includes a hardcoded image 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2.Dynamically reads JSON data from an external file rather than hardcoding it. 
+This allows for easier maintenance and updates to the product catalog.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Implementation Details:
+1.The project is structured using the Flutter framework, ensuring cross-platform compatibility.
+
+2.JSON data is stored in an external file, enhancing flexibility and ease of maintenance.
+
+3.UI components are carefully designed to provide an intuitive user experience.
+
+
+
+
+
